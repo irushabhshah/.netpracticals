@@ -1,0 +1,11 @@
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-1\bin\Debug\netcoreapp3.1\Practical-Demo.exe
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-1\bin\Debug\netcoreapp3.1\Practical-Demo.deps.json
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-1\bin\Debug\netcoreapp3.1\Practical-Demo.runtimeconfig.json
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-1\bin\Debug\netcoreapp3.1\Practical-Demo.runtimeconfig.dev.json
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-1\bin\Debug\netcoreapp3.1\Practical-Demo.dll
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-1\bin\Debug\netcoreapp3.1\Practical-Demo.pdb
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-1\obj\Debug\netcoreapp3.1\Practical-Demo.csprojAssemblyReference.cache
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-1\obj\Debug\netcoreapp3.1\Practical-Demo.AssemblyInfoInputs.cache
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-1\obj\Debug\netcoreapp3.1\Practical-Demo.AssemblyInfo.cs
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-1\obj\Debug\netcoreapp3.1\Practical-Demo.dll
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-1\obj\Debug\netcoreapp3.1\Practical-Demo.pdb

@@ -1,0 +1,11 @@
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-4\bin\Debug\netcoreapp3.1\Practical-4.exe
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-4\bin\Debug\netcoreapp3.1\Practical-4.deps.json
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-4\bin\Debug\netcoreapp3.1\Practical-4.runtimeconfig.json
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-4\bin\Debug\netcoreapp3.1\Practical-4.runtimeconfig.dev.json
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-4\bin\Debug\netcoreapp3.1\Practical-4.dll
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-4\bin\Debug\netcoreapp3.1\Practical-4.pdb
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-4\obj\Debug\netcoreapp3.1\Practical-4.csprojAssemblyReference.cache
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-4\obj\Debug\netcoreapp3.1\Practical-4.AssemblyInfoInputs.cache
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-4\obj\Debug\netcoreapp3.1\Practical-4.AssemblyInfo.cs
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-4\obj\Debug\netcoreapp3.1\Practical-4.dll
+E:\Study\6 Sem\.NET\Lab\dotNet_Lab\Practical-4\obj\Debug\netcoreapp3.1\Practical-4.pdb
